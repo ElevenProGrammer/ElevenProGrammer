@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElevenProGrammer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on any code lover
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate with any code lover
 - 📫 How to reach me ...
 
 <!---
